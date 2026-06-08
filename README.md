@@ -49,9 +49,3 @@ pausar la experiencia o consultar los créditos del proyecto.
 * Buttons
 * TextMeshPro
 * Scene Management
-
-
-![Novela Visual](Screenshots/dialogue.png)
-
-![Créditos](Screenshots/credits.png)
-```
